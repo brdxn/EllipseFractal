@@ -1,3 +1,2 @@
 # EllipseFractal
 
-see master branch
